@@ -1,0 +1,7 @@
+1) Metodo recebe int e eleva ao quadrado
+2) metodo que recebe uma frase e mostra quantas palavras existe na frase
+3) metodo que recebe um numero inteiro e informa se e primo
+4) metodo que recebe dois anos (atual e nascimento) e devolve idade
+5) metodo que recbe um vetor com numeros inteiros e retorna o maior valor do vetor
+6) metodo que recebe dois vetores de numeros inteiros e mostra os numeros que aparecem tanto no primeiro, quanto no segundo vetor
+
