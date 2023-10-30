@@ -1,0 +1,10 @@
+menu
+1-cadastrar
+2-listar
+3-gerar amigo secreto
+4-sair
+
+Gerar lista temporaria com amigos
+Aplicar shuffle na lista temporaria
+Comparar os dados listas posicao por posicao
+Gravar no arquivo de saida amigoSecreto.csv amigo1,email1,amigo2,email2
